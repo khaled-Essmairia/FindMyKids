@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/idRLBSheet"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black_shade_1"
+    android:padding="4dp">
+
+    <!--text view for displaying child name-->
+    <TextView
+        android:id="@+id/idTVchildName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:padding="4dp"
+        android:text="Child Name"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <!--image view for displaying child image-->
+
+    <ImageView
+        android:id="@+id/idIVchild"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/idTVchildName"
+        android:layout_centerVertical="true"
+        android:layout_margin="4dp"
+        android:padding="4dp"
+        android:src="@drawable/ic_launcher_background" />
+
+    <!--text view for displaying child description-->
+    <TextView
+        android:id="@+id/idTVchildDesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/idTVchildName"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginBottom="4dp"
+        android:layout_toEndOf="@id/idIVchild"
+        android:layout_toRightOf="@id/idIVchild"
+        android:padding="3dp"
+        android:text="Description"
+        android:textColor="@color/white" />
+
+    <!--text view for displaying child best suited for-->
+    <TextView
+        android:id="@+id/idTVSuitedFor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/idTVchildDesc"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginBottom="4dp"
+        android:layout_toRightOf="@id/idIVchild"
+        android:padding="3dp"
+        android:text=""
+        android:textColor="@color/white" />
+
+    <!--text view for displaying child desc2-->
+    <TextView
+        android:id="@+id/idTVchilddesc2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/idTVSuitedFor"
+        android:layout_margin="4dp"
+        android:layout_toRightOf="@id/idIVchild"
+        android:padding="3dp"
+        android:text="Email"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/idTVchilddesc2"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+        <!--button for editing child-->
+        <Button
+            android:id="@+id/idBtnEditchild"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="6dp"
+            android:layout_weight="1"
+            android:text="Edit Child"
+            android:textAllCaps="false" />
+
+        <!--button for viewing child details-->
+        <Button
+            android:id="@+id/idBtnVIewDetails"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="6dp"
+            android:layout_weight="1"
+            android:text="View Child"
+            android:textAllCaps="false" />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

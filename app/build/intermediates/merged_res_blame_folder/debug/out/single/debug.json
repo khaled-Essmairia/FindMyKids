@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\layout_activity_edit_child.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\layout\\activity_edit_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.firebaseapp-merged_res-30:/layout_activity_add_child.xml.flat",
+        "source": "com.example.firebaseapp-main-32:/layout/activity_add_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\layout_activity_add_child.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\layout\\activity_add_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\drawable-v24_ic_add.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\drawable-v24\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\drawable-v24_rounded_drawable.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\drawable-v24\\rounded_drawable.xml"
+    },
+    {
+        "merged": "com.example.firebaseapp-merged_res-30:/layout_child_rv_item.xml.flat",
+        "source": "com.example.firebaseapp-main-32:/layout/child_rv_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\layout_activity_add_course.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\layout\\activity_add_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\drawable-v24\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\drawable-v24_ic_edit.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\drawable-v24\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\layout_activity_main_child.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\layout\\activity_main_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\drawable-v24_ic_delete.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\drawable-v24\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\layout_child_rv_item.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\layout\\child_rv_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.firebaseapp-merged_res-30:/layout_bottom_sheet_layout.xml.flat",
+        "source": "com.example.firebaseapp-main-32:/layout/bottom_sheet_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-pngs-25:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\layout_course_rv_item.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\layout\\course_rv_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\drawable-v24_ic_logout.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\drawable-v24\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\layout_activity_edit_course.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\layout\\activity_edit_course.xml"
+    },
+    {
+        "merged": "com.example.firebaseapp-merged_res-30:/layout_activity_edit_child.xml.flat",
+        "source": "com.example.firebaseapp-main-32:/layout/activity_edit_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\drawable-v24_button_back.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\drawable-v24\\button_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\drawable-v24_progress_back.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\drawable-v24\\progress_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\layout_bottom_sheet_layout.xml.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\layout\\bottom_sheet_layout.xml"
+    },
+    {
+        "merged": "com.example.firebaseapp-merged_res-30:/layout_activity_main.xml.flat",
+        "source": "com.example.firebaseapp-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\essma\\.gradle\\daemon\\7.3.3\\com.example.firebaseapp-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]
